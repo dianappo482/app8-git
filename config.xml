@@ -5,14 +5,14 @@
  id ="com.phonegap.app8"
  version ="1.0.0">
  
- <name> app8-Geolocalización con google Maps</name>
+ <name> app8-Geolocalizacion con google Maps</name>
  
  <description>
- Muestra la ubicación de acuerdo al GPS y en el mapa de google Maps
+Muestra la ubicacion de acuerdo al GPS y en el mapa de google Maps
  </description>
  
  <author href="https://build.phonegap.com" email="diana_pallolis482@hotmail.com">
- Diana Paola Pintos Ortega
+
  </author>
  
  <!--Perzonaliza la aplicacion y plataforma -->
@@ -41,4 +41,4 @@
  <icon src="res/android/mdpi.png"/>
  
  </widget>
-
+ 
